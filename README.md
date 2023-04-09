@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dupadhyaya)](https://github.com/dupadhyaya/github-readme-stats)
 
 🔭 I’m currently working on ... Machine Learning, Data Science, Data Mining
 🌱 I’m currently learning ...NLP and use of Selenium for Web Scraping
