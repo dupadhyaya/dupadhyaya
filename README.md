@@ -3,7 +3,6 @@
 <!--
 **dupadhyaya/dupadhyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dupadhyaya)](https://github.com/dupadhyaya/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -18,6 +17,8 @@ Here are some ideas to get you started:
 -->
 
 <br>
+[![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dupadhyaya)](https://github.com/dupadhyaya/github-readme-stats)
+
 <br>
 About creating this file
 <a href='https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme'> Create this profile </a>
