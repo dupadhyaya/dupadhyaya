@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Machine Learning, Data Science, Data Mining
-- 🌱 I’m currently learning ...NLP and use of Selenium for Web Scraping
+🔭 I’m currently working on ... Machine Learning, Data Science, Data Mining
+🌱 I’m currently learning ...NLP and use of Selenium for Web Scraping
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <br>
-[![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dupadhyaya)](https://github.com/dupadhyaya/github-readme-stats)
+- [![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dupadhyaya)](https://github.com/dupadhyaya/github-readme-stats)
 
 <br>
 About creating this file
