@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<!--
-**dupadhyaya/dupadhyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on ... Machine Learning, Data Science, Data Mining
+🌱 I’m currently learning ...NLP and use of Selenium for Web Scraping
+
+
+<-- **dupadhyaya/dupadhyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
