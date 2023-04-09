@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dupadhyaya)](https://github.com/dupadhyaya/github-readme-stats)
+- [![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dupadhyaya)](https://github.com/dupadhyaya/github-readme-stats)
 
 
 - 🔭 I’m currently working on ... Machine Learning, Data Science, Data Mining
@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 
 
-
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dupadhyaya)](https://github.com/dupadhyaya/github-readme-stats)
 - <a href='https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme'> Create this profile </a>
 - my Overall Status
-![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dupadhyaya&count_private=true)
+- ![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dupadhyaya&count_private=true)
